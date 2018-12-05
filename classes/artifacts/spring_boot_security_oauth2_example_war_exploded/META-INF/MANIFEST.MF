@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: MM13
+Implementation-Vendor-Id: com.devglan
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_31
+Main-Class: ${start-class}
+
